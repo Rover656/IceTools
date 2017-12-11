@@ -1,2 +1,2 @@
 # IceTools
-![LuaC to Ice Converter](LuaCToIceSkid.png)
+![LuaC to Ice Converter](LuaCtoIceSkid.png)
